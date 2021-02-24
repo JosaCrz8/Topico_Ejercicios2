@@ -1,12 +1,10 @@
 # Topico_Ejercicios2
 
-
+# Realizar un programa en java que permita dibujar 5 figuras geométricas.
 
 # La clase  pantalla  y la clase  lamina  extendida al JFrame
 
-
-
-![Captura de pantalla (81)](https://user-images.githubusercontent.com/71291276/108952528-3e8e8480-762f-11eb-9d33-57ddcac257c1.png
+![Captura de pantalla (81)](https://user-images.githubusercontent.com/71291276/108952528-3e8e8480-762f-11eb-9d33-57ddcac257c1.png)
 
 # La clase boton agregando los componentes  al panel
 ![Captura de pantalla (82)](https://user-images.githubusercontent.com/71291276/108952538-41897500-762f-11eb-88c1-f5567e4afabf.png)
